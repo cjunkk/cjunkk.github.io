@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Site Title
+title: Carlo's Website
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Carlo Giunchi
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "I am a researcher @INGV - Pisa."
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: #cjunkk
   linkedin: #username
-  github: #username
+  github: #cjunkk
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
