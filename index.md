@@ -11,4 +11,4 @@ I am a research scientist at Istituto Nazionale di Geofisica e Vulcanologia, Sez
 
 - Machine Learning and Deep Learning
 - Real time seismology
-- Seismic data analysis
+- Seismic data management
