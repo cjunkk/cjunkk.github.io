@@ -5,13 +5,13 @@ menutitle: Resume
 ---
 ## Currently
 
-Current Position Description
+Senior Researcher at INGV, Pisa
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`1994 - 1997`
+__Università degli Studi di Milano__
+PhD in Earth Sciences
 
 `1995 - 1997`
 __University Name__
