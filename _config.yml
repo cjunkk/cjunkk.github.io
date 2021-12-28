@@ -9,12 +9,12 @@ owner:
   name: Carlo Giunchi
   avatar: bio-photo.jpg
   bio: "I am a researcher @INGV - Pisa."
-  email: #emailaddress
+  email: carlo.giunchi@ingv.it
   # Do not include the @ symbol in your Twitter username
-  twitter: #cjunkk
+  twitter: cjunkk
   linkedin: #username
-  github: #cjunkk
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  github: cjunkk
+  orcid: 0000-0002-0174-324X # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
   google:
@@ -23,7 +23,7 @@ owner:
     verify:
     scholar: #id
   facebook: #username
-  instagram: #username
+  instagram: cjunkk #username
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
