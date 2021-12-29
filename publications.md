@@ -1,6 +1,6 @@
 ---
 layout: page
-menutitle: Presentations
+menutitle: Publications
 menuorder: 2
 excerpt: "Recent Publications"
 ---
