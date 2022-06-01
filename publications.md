@@ -4,6 +4,9 @@ menutitle: Publications
 menuorder: 2
 excerpt: "Recent Publications"
 ---
+
+## Recent Publications
+
 [1] J. Woollam, J. Münchmeyer, F. Tilmann, A. Rietbrock, D. Lange, T. Bornstein, T.
 Diehl, C. Giunchi, F. Haslinger, D. Jozinovi ́c, A. Michelini, J. Saul, and H. Soto. “Seis-
 Bench—A Toolbox for Machine Learning in Seismology”. In: Seismological Research
@@ -16,8 +19,7 @@ In: Journal of Geophysical Research: Solid Earth 127.1 (Jan. 2022). DOI: 10.1029
 2021jb023499.
 
 [3] S. Cianetti, R. Bruni, S. Gaviano, D. Keir, D. Piccinini, G. Saccorotti, and C. Giunchi.
-“Comparison of Deep Learning Techniques for the Investigation of a Seismic Se-
-quence: An Application to the 2019, Mw 4.5 Mugello (Italy) Earthquake”. In: Journal of
+“Comparison of Deep Learning Techniques for the Investigation of a Seismic Sequence: An Application to the 2019, Mw 4.5 Mugello (Italy) Earthquake”. In: Journal of
 Geophysical Research: Solid Earth 126.12 (Dec. 2021). DOI: 10.1029/2021jb023405.
 [4] A. Michelini, S. Cianetti, S. Gaviano, C. Giunchi, D. Jozinovic, and V. Lauciani. “INSTANCE – the Italian seismic dataset for machine learning”. In: Earth System Science
 Data (May 2021). DOI: 10.5194/essd-2021-164.
