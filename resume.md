@@ -24,7 +24,7 @@ Name of Award, Organization
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?hl=it&user=vrbDvg0AAAAJ) -->
 
 ### Journals
 
