@@ -13,9 +13,9 @@ Senior Researcher at INGV, Pisa
 __Università degli Studi di Milano__
 PhD in Earth Sciences
 
-`1995 - 1997`
-__University Name__
-Degree Awarded
+`1985 - 1991`
+__Università degli Studi di Bologna__
+Master Degree in Physics
 
 ## Awards
 
